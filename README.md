@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam a student<br>iam a programmer<br>iam looking for freelancing work
+iam a student<br>iam a programmer<br>
 
 
 ## 🌐 Socials:
