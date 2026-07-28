@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam a student<br>iam a programmer<br>
+Iam a CYBERSECURITY researcher and a CTFs player for MYKU team :)
 
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@ iam a student<br>iam a programmer<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=anas-mahfouz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
